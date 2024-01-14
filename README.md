@@ -1,4 +1,4 @@
-# Mecitab
+# Mecitab - Template
 
 Template for a static webpage where the user can see different information about a company, in thus case "Mecitab"
 
